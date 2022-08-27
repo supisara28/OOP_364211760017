@@ -22,14 +22,10 @@ class Vehicle:
         self.maxspeed = maxspeed
         self.price = price
 
-    def my_vehicle(self):
-        b = input(f'Brand : ')
-        m = input(f'Model: ')
-        c = input(f'Color: ')
-        msp = input(f'Max Speed: ')
-        p = input(f'Price: ')
-        print('Brand ',b ,
-              'Model ',m,
-              'Color ',c,
-              'Max Speed ',msp,
-              'Price ',p)
+
+    b = input(f'Brand : ')
+    m = input(f'Model: ')
+    c = input(f'Color: ')
+    msp = input(f'Max Speed: ')
+    p = input(f'Price: ')
+    print('Brand',b ,' Model',m,' Color',c,' Max Speed',msp,' Price',p,'บาท')
