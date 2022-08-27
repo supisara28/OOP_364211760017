@@ -1,4 +1,9 @@
 """
+Name: {Supisara Kongthong}
+SID: {364211760017}
+Group: {MIT221}
+"""
+"""
 OOP Exercise Chapter 6
 
 1. จงเขียนโปรแกรมภาษาไพธอนเพื่อสร้างคลาสพาหนะชื่อ Vehicle ที่ประกอบไปด้วยคุณลักษณะ (attributes) คือ 
